@@ -1,5 +1,3 @@
-// A dinamikus varakozasi sor deklaracioja
-
 #pragma once
 
 #include <algorithm>

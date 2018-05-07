@@ -1,5 +1,3 @@
-// A dinamikus varakozasi sor definicioja
-
 #include "dynamicQueue.h"
 
 template <class T>

@@ -1,5 +1,3 @@
-// Grafok beolvasasara szolgalo klassz
-
 #pragma once
 
 #include <fstream>
